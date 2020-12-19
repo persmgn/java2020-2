@@ -12,6 +12,7 @@ public class ObjectTest {
 	
 	public int	x;
 	public int 	y;
+	private int	abcde = -2;
 
 	public static void staticPrint(int value) throws IOException {
 		System.err.println("Static print "+value);
